@@ -27,4 +27,9 @@ nn_training_0_e1m1_05 :  Difficulty Level : 02
 			-warp13
 			-skill2
 
+nn_training_0_e1m1_06 :  Difficulty Level : 02
+			-record nn_training_0_e1m1_06 
+			-warp13
+			-skill2
+
 
